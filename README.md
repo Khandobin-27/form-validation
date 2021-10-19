@@ -1,0 +1,2 @@
+# form-validation
+The simple form validation built on Vanilla JS.
